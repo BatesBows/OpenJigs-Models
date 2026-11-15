@@ -3,3 +3,7 @@ This is a place for collecting and sharing the various printable tools and jigs 
 Hope these find a place on your bench! 
 
 - Joe 
+
+# A Note on the clamps: 
+
+They take a 1/4-20 captive hex nut in one half of the pair, so you need to add a pause command in your slicer at the final layer before the slot is covered.  I glue cork on mine at the end of the assembly.  
